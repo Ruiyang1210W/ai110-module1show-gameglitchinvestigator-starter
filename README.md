@@ -32,6 +32,8 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+<img width="1150" height="734" alt="codepath screenshot2" src="https://github.com/user-attachments/assets/1c27e850-fb7c-4988-98cb-a393d14cbc88" />
+<img width="772" height="307" alt="codepath1" src="https://github.com/user-attachments/assets/06114271-39a0-411d-8258-44386f1e2b53" />
 
 ## 🚀 Stretch Features
 
